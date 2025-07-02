@@ -51,7 +51,7 @@ This Code of Conduct also applies to actions taken outside of these spaces that 
 
 ## Enforcement and Reporting
 
-We encourage the community to resolve issues on their own whenever possible. Instances of abusive, harassing, or otherwise unacceptable behavior should be reported to the AirGuard maintainers at **contact@airguard.example.com**. Reports will be handled in accordance with the issue resolution process described in the Code of Conduct FAQ. All maintainers are obligated to respect the privacy and security of the reporter of any incident.
+We encourage the community to resolve issues on their own whenever possible. Instances of abusive, harassing, or otherwise unacceptable behavior should be reported to the AirGuard maintainers at **gake572io@gmail.com**. Reports will be handled in accordance with the issue resolution process described in the Code of Conduct FAQ. All maintainers are obligated to respect the privacy and security of the reporter of any incident.
 
 ---
 
