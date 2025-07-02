@@ -68,24 +68,6 @@ npm install
 cp .env.example .env       # configure API_BASE_URL
 ```
 
-### Running the App
-
-Start ingestion & API:
-
-```bash
-cd backend
-uvicorn app.main:app --reload
-```
-
-Run the web dashboard:
-
-```bash
-cd ../web
-npm start
-```
-
-Access the dashboard at `http://localhost:3000`.
-
 ---
 
 ## Usage
