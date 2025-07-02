@@ -1,0 +1,14 @@
+type Node {
+  id: ID!
+}
+
+type Edge {
+  from: ID!
+  to: ID!
+}
+
+type Query {
+  nodes: [Node!]!
+  outEdges(from: ID!): [Edge!]!
+  inEdges(to: ID!): [Edge!]!
+}
