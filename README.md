@@ -13,7 +13,7 @@ AirGuard brings real-time air quality data to your fingertips by combining low-c
 ## Features
 
 <p align="center">
-  <img src="assets/airguard-image.png" alt="AirGuard: Real-Time Air Quality Monitoring" />
+  <img src="assets/airguard.png" alt="AirGuard: Real-Time Air Quality Monitoring" />
 </p>
 
 
