@@ -1,0 +1,13 @@
+{
+  "name": "airguard",
+  "version": "0.1.0",
+  "description": "Full-stack air-quality monitoring & forecasting dashboard",
+  "main": "backend/app.py",
+  "scripts": {
+    "start": "docker-compose up --build",
+    "lint": "eslint . || true",
+    "test": "pytest"
+  },
+  "author": "gake572 <gake572@users.noreply.github.com>",
+  "license": "MIT"
+}
