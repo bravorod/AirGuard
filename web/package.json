@@ -1,0 +1,22 @@
+{
+  "name": "airguard-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "leaflet": "^1.9.3",
+    "plotly.js": "^2.20.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^13.4.0",
+    "jest": "^29.4.0"
+  }
+}
