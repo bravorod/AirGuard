@@ -8,6 +8,6 @@
     "lint": "eslint . || true",
     "test": "pytest"
   },
-  "author": "gake572 <gake572@users.noreply.github.com>",
+  "authors": "gake572 <gake572@users.noreply.github.com>", "rodrigo-bravo <rodrigo-bravo@users.noreply.github.com>",
   "license": "MIT"
 }
