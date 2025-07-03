@@ -99,7 +99,9 @@ Full API documentation available at `/api/docs` when the server is running.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE\_OF\_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
+
+
+Please see [CONTRIBUTORS.md](CONTRIBUTING.md), [CONTRIBUTING.md](CONTRIBUTING.md), and [CODE\_OF\_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
 
 <sup>Ensure tests pass and adhere to code style (Prettier, ESLint, Black). </sup>
 
